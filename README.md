@@ -1,1 +1,1 @@
-# FruitsProject-v1-with-MongoDB-
+# FruitsProject-v1-with-MongoDB
